@@ -3,7 +3,7 @@
 // var a = 3
 // var b = 5
 // c=a+b
-// document.write("sum of " +a+ " and " +b +" is "+c)
+// document.write("sum of " +a+ " and " +b +" is "+c)/
 
 
 // var a = 3
